@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @git-miracle
 - 👀 I’m interested in front-end and web develping
-- 🌱 I’m currently learning Sass 
+- 🌱 I’m currently learning REact js and React Native Sass 
 - 💞️ I’m looking to collaborate on web challeng
 - 📫 How to reach me @ discord
 
